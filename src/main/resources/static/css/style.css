@@ -1,0 +1,23 @@
+.m {
+    margin-left: 30%;
+
+}
+.text-center{
+    text-align: center;
+
+}
+body {
+    /*background-color: linen;*/
+    background-color: moccasin;
+}
+.width30 {
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+}
+.blockquote {
+    background-color: linen;
+}
+h1 {
+    font-family: "Rockwell Extra Bold";
+}
